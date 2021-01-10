@@ -1,0 +1,9 @@
+=
+< 160
+> 60
+_ 20
+@ 3
+$ 0 There was a sign out front
+$ 1 It said "free birdseed"
+$ 2 Hand it over pronto
+$ 3 Or I'm gonna beat your ass

@@ -1,0 +1,7 @@
+=
+< 120
+> 60
+* $ 0 Every simulation proves it
+* $ 1 The meteor is on its way
+* @ 2
+* $ 3 Now all we have to do is...

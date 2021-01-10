@@ -1,0 +1,6 @@
+=
+@ 0
+$ 0 Glad you could make it
+$ 1 Help yourself to sushi
+$ 2 But do yourself a favor
+$ 3 Skip the seared salmon

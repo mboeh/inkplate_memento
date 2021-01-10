@@ -1,0 +1,9 @@
+=
+@ 6
+< 120
+> 100
+_ 25
+$ 0 I got the horse right here
+$ 1 His name is Paul Revere
+$ 2 He's the ghost of the horse
+$ 3 That won last year
